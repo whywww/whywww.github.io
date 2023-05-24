@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - whywww
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - whywww/LSASM
+  - whywww/Neumann_Networks_PyTorch
+  - anonyr7/Sinogram-Inpainting
+  - whywww/WebGL-RayTracing
+  - whywww/WebGL-Physically-Based-Animation
