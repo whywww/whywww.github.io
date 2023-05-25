@@ -26,7 +26,7 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   th {
@@ -91,7 +91,8 @@ blockquote {
   }
 
   .card-title {
-    color: var(--global-text-color);
+    // color: var(--global-text-color);
+    color: var(--global-theme-color);
   }
 
   .card-item {
@@ -367,12 +368,27 @@ footer.sticky-bottom {
     .list-group-item {
       background-color: inherit;
       border-color: var(--global-divider-color);
+      // color: var(--global-theme-color);
 
       .badge {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
+        width: 100px;
       }
     }
+
+      a {
+        font-weight: bolder;
+      }
+  }
+}
+
+// news (diy)
+.news {
+  .badge {
+      color: var(--global-card-bg-color) !important;
+      background-color: var(--global-theme-color) !important;
+      width: 100px;
   }
 }
 
@@ -529,7 +545,7 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
-  h2.category {
+  h3.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
@@ -580,8 +596,10 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        min-width: 200px;
+        max-width: 300px;
+        min-height: 100px;
+        max-height: 130px;
       }
 
       .abbr {

@@ -5,7 +5,7 @@ description: 3D ray tracing and marching algorithms implemented with complex lig
 img: https://github.com/whywww/ImageBed/blob/master/rt1.png?raw=true
 # redirect: https://unsplash.com
 importance: 3
-category: work
+category: research
 ---
 
 CS 351-2, 2020 Win 

@@ -4,7 +4,7 @@ title: Smear Detection
 description: Detecting smear regions from tens of thousands of real industry images with lots of noise. 
 img: https://github.com/whywww/ImageBed/blob/master/smear.png?raw=true
 importance: 4
-category: work
+category: research
 ---
 
 EE 495, 2020 Spr

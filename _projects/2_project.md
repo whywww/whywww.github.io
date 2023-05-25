@@ -4,7 +4,7 @@ title: Physically Based Animation & Particle Systems
 description: Simulated tornatos, boid flocking behavior, spring mass system, and different ODE solvers based on WebGL.
 img: https://github.com/whywww/ImageBed/blob/master/cg_partical.png?raw=true
 importance: 2
-category: work
+category: research
 ---
 
 CS 351-2, 2020 Win

@@ -4,7 +4,7 @@ title: Light Field Rendering on 3D Looking Glass Device - A Tutorial
 description: An end-to-end system taking as input pictures of holograms captured from different positions using a handheld device such as a mobile phone and display the reconstructed hologram video on a 3D looking glass holographic display device. 
 img: https://github.com/whywww/ImageBed/blob/master/light_field.png?raw=true
 importance: 1
-category: work
+category: research
 ---
 
 Haoyu Wei, Tzujui Liu, Pengxiao Hao, Florian Willomitzer, Oliver Cossairt
