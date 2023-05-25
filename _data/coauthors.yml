@@ -1,7 +1,11 @@
-"Lam":
-  - firstname: ["Edmund", "E.", "E. Y.", "Edmund Y."]
-    url: https://scholar.google.com.hk/citations?user=MvOSTcUAAAAJ&hl=en
+# "Lam":
+#   - firstname: ["Edmund", "E.", "E. Y.", "Edmund Y"]
+#     url: https://scholar.google.com.hk/citations?user=MvOSTcUAAAAJ&hl=en
 
-"Peng":
-  - firstname: ["Yifan", "Yifan Evan", "Y.", "Yifan E."]
-    url: https://scholar.google.com/citations?user=UMveGGwAAAAJ&hl=en
+# "Peng":
+#   - firstname: ["Yifan", "Yifan Evan", "Y.", "Yifan E."]
+#     url: https://scholar.google.com/citations?user=UMveGGwAAAAJ&hl=en
+
+# "Cossairt":
+#   - firstname: ["Oliver", "O."]
+#     url: https://scholar.google.com/citations?user=QxxseqsAAAAJ&hl=en

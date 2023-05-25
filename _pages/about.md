@@ -9,8 +9,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>CYC 512, The University of Hong Kong</p>
-    <p>Hong Kong</p>
+    <p>512 Chow Yei Ching Building, The University of Hong Kong</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

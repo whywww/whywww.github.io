@@ -2,11 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Haoyu Wei
+      value: Haoyu Wei (魏昊妤)
     - name: Email
       value: haoyu [dot] wei97 [at] gmail [dot] com
     - name: Languages
       value: Mandarin (native), English (fluent), Cantonese (beginner)
+
+# - title: Research Aeras
+#   type: list
+#   contents:
+#     My research focuses on designing jointly optimized optical systems for computer vision tasks. 
 
 - title: Education
   type: time_table
