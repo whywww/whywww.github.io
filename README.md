@@ -6,4 +6,8 @@ Feel free to contribute and use! 😎
 
 ---
 
+Installation requires ruby and bundler, see [here](https://github.com/alshedivat/al-folio#local-setup-standard).
+
+---
+
 Template adapted from [al-folio](https://github.com/alshedivat/al-folio). Design adapted from [otiliastr](https://github.com/otiliastr/otiliastr.github.io).
