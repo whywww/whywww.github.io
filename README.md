@@ -1,7 +1,6 @@
 # Haoyu Wei's Personal Webpage
 
-This is the personal academic webpage of Haoyu Wei. The website is hosted at whywww.github.io/
-
+This is the personal academic webpage of Haoyu Wei. The website is hosted at [whywww.github.io](https://whywww.github.io/).
 Feel free to contribute and use! 😎
 
 ---
