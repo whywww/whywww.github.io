@@ -256,11 +256,11 @@
      <span class="n">ret</span><span class="p">,</span> <span class="n">frame</span> <span class="o">=</span> <span class="n">cap</span><span class="p">.</span><span class="nf">read</span><span class="p">()</span>
 
      <span class="n">fn</span> <span class="o">=</span> <span class="n">outdir</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span> <span class="o">+</span><span class="sh">'</span><span class="s">.png</span><span class="sh">'</span>
-     <span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">Creating</span><span class="gp">...</span><span class="sh">'</span><span class="s"> + fn)
-     cv2.imwrite(fn, frame)
+     <span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">Creating...</span><span class="sh">'</span> <span class="o">+</span> <span class="n">fn</span><span class="p">)</span>
+     <span class="n">cv2</span><span class="p">.</span><span class="nf">imwrite</span><span class="p">(</span><span class="n">fn</span><span class="p">,</span> <span class="n">frame</span><span class="p">)</span>
 
-     id += 1
-</span></code></pre></div>    </div>
+     <span class="nb">id</span> <span class="o">+=</span> <span class="mi">1</span>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Put images to Looking Glass Device</p>

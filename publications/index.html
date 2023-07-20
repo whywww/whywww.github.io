@@ -119,7 +119,97 @@
             <!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
-  <ol class="bibliography"><li>
+  <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-4 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/lsasm-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/lsasm-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/lsasm-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/lsasm.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="lsasm.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="Wei:23" class="col-sm-7">
+        <!-- Title -->
+        <div class="title">Modeling Off-Axis Diffraction with the Least-Sampling Angular Spectrum Method</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Haoyu Wei</em>, Xin Liu, Xiang Hao, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Edmund Y. Lam, Yifan Peng' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Optica</em>, Jul 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://github.com/whywww/ASASM" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1364/OPTICA.490223"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.1364/OPTICA.490223" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Accurately yet efficiently simulating off-axis diffraction is vital to design large-scale computational optics, but existing rigid sampling and modeling schemes fail to address this. Herein, we establish a universal least-sampling angular spectrum method that enables efficient off-axis diffraction modeling with high accuracy. Specifically, by employing the Fourier transform’s shifting property to convert off-axis diffraction to quasi-on-axis, and by linking the angular spectrum to the transfer function, essential sampling requirements can be thoroughly optimized and adaptively determined across computation. Leveraging a flexible matrix-based Fourier transform, we demonstrate the off-axis point spread function of exemplary coded-aperture imaging systems. For the first time, to our knowledge, a significant speed boost of around 36×
+ over the state of the art at 20° is demonstrated, and so is the viability of computing ultra-large angles such as 35° within seconds on a commercial computer. The applicability to high-frequency modulation is further investigated.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Wei:23</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Modeling Off-Axis Diffraction with the Least-Sampling Angular Spectrum Method}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Wei, Haoyu and Liu, Xin and Hao, Xiang and Lam, Edmund Y. and Peng, Yifan}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Optica}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{10}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{7}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{959--962}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Optica Publishing Group}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">jul</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1364/OPTICA.490223}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-4 preview">
@@ -167,7 +257,7 @@
         
         
         <div class="periodical">
-          <em>Optics and Lasers in Engineering</em>, 2023
+          <em>Optics and Lasers in Engineering</em>, Jul 2023
         </div>
         <div class="periodical">
           
@@ -204,7 +294,8 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
 
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li>
@@ -242,7 +333,7 @@
         
         
         <div class="periodical">
-          <em>In Computational Optical Sensing and Imaging</em>, 2022
+          <em>In Computational Optical Sensing and Imaging</em>, Jul 2022
         </div>
         <div class="periodical">
           
@@ -323,7 +414,7 @@
         
         
         <div class="periodical">
-          <em>arXiv</em>, 2020
+          <em>arXiv</em>, Jul 2020
         </div>
         <div class="periodical">
           
