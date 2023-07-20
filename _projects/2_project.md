@@ -12,3 +12,6 @@ CS 351-2, 2020 Win
 <a href="https://github.com/whywww/WebGL-Physically-Based-Animation">GitHub</a> /
 <a href="https://github.com/whywww/WebGL-Physically-Based-Animation/blob/master/ProjectA_report.pdf">Document</a> /
 <a href="https://whywww.github.io/WebGL-Physically-Based-Animation/">Demo</a>
+
+<!-- <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">
+</iframe> -->
