@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: Imaging Systems Lab, <a href='https://www.hku.hk/'>HKU</a>, Hong Kong.
+subtitle: 
 
 profile:
   align: right
@@ -17,9 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Ph.D. student at Imaging Systems Lab, HKU. I am fortunate to be advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Dr. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
+I am a fourth-year Ph.D. student at the University of Hong Kong (HKU) in the **Imaging Systems Lab** and **WeLight Lab**. 
+I am fortunate to be advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Prof. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
 
-Before that, I was a master student at Northwestern University in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)'s group.
-My Ph.D. research is in the field of computational imaging with more emphasis on computational photography. Specifically I am desigining optical encoding and inverse algorithsm. I've also investigated sparse CT reconstruction, light field holographic rendering, deflectometry for 3D surface profile.
 
-I love hiking, running, and all kinds of sports. Thriller is my favorate type of movies.
+My academic journey has been driven by a passion for **computational imaging**, with a particular focus on deep optics. My research revolves around co-designing optical systems and inverse algorithms, leveraging **deep learning networks**. I also specialize in **optical numerical simulations** to model light propagations.
+
+Before joining HKU, I completed my master’s degree at Northwestern University, where I worked in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)’s Comp Photo Lab.
+My work spans sparse CT reconstruction, light field holographic rendering, and deflectometry for 3D surface profiling.
+
+Outside research, I’m a sports enthusiast — marathons, tennis, and the gym keep me energized. Thriller is my favorate type of movies.
