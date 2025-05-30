@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated this website :sparkles: :smile:
+The website is online :sparkles: :smile:
