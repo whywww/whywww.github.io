@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-updated-this-website-sparkles-smile",
-          title: 'Updated this website :sparkles: :smile:',
+            },},{id: "news-the-website-is-online-sparkles-smile",
+          title: 'The website is online :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-new-optica-paper-on-modeling-off-axis-diffraction-with-the-least-sampling-angular-spectrum-method-is-online",
           title: 'New Optica paper on “Modeling Off-Axis Diffraction with the Least-Sampling Angular Spectrum Method”...',
