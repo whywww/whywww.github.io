@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-24 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Updated this website :sparkles: :smile:

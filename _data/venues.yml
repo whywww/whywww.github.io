@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#828282"
+
+"OLE":
+  url: https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"COSI":
+  url: https://www.optica.org/en-us/events/congress/imaging_and_applied_optics_congress/program/computational_optical_sensing_and_imaging/
+  color: "#7cb342"

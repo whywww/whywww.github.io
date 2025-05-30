@@ -1,17 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>The University of Hong Kong</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>512 Chow Yei Ching Building, The University of Hong Kong</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +20,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a fourth-year Ph.D. student at the University of Hong Kong (HKU) in the **Imaging Systems Lab** and **WeLight Lab**. 
+I am fortunate to be advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Prof. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+My academic journey has been driven by a passion for **computational imaging**, with a particular focus on **deep optics**. My research revolves around co-designing optical systems and inverse algorithms, leveraging **deep learning networks**. I also specialize in **optical numerical simulations** to model light propagations.
+
+Before joining HKU, I completed my master’s degree at Northwestern University, where I worked in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)’s Comp Photo Lab.
+My work spans sparse CT reconstruction, light field holographic rendering, and deflectometry for 3D surface profiling.
+
+Outside research, I’m a sports enthusiast — marathon, tennis, and gym keep me energized. Thriller is my favorate type of movies.
