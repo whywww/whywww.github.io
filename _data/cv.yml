@@ -28,7 +28,7 @@
       year: 2019 - 2021
       description:
         - Advised by <a href='https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/'>Prof. Oliver Cossairt</a>
-        - <span>GPA:</span> 4.0 (4.0 scale)
+        - <span>GPA:</span> 4.0/4.0
         - <span>Thesis:</span> <i>2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network</i>
     - title: Sichuan University - B.Eng. in Software Engineering
       institution: Chengdu, China
@@ -49,14 +49,14 @@
   contents:
     - title: Reviewer of ACM Siggraph, IEEE TPAMI, Optics Express, etc.
       year: 2021 - Present
-    - title: Teaching assistant for <span>ELEC2844:</span> <a href='https://www.eee.hku.hk/~elec2844/sp23/index.html'>Probabilistic Systems Analysis</a>
+    - title: Teaching assistant for HKU <span>ELEC2844:</span> <a href='https://www.eee.hku.hk/~elec2844/sp23/index.html'>Probabilistic Systems Analysis</a>
       year: Spring 2024
-    - title: Teaching assistant for <span>ELEC2844:</span> <a href='https://www.eee.hku.hk/~elec2844/sp23/index.html'>Probabilistic Systems Analysis</a>
+    - title: Teaching assistant for HKU <span>ELEC2844:</span> <a href='https://www.eee.hku.hk/~elec2844/sp23/index.html'>Probabilistic Systems Analysis</a>
       year: Spring 2023
       # description: Teaching tutorial lectures, grading, and office hours.
-    - title: Peer mentor for <span>CS336:</span> <a href='https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/336.html'>Design and Analysis of Algorithms</a>
+    - title: Peer mentor for NU <span>CS336:</span> <a href='https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/336.html'>Design and Analysis of Algorithms</a>
       year: Winter 2021
-    - title: Peer mentor for <span>CS349:</span> <a href='https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/349.html'>Machine Learning</a>
+    - title: Peer mentor for NU <span>CS349:</span> <a href='https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/349.html'>Machine Learning</a>
       year: Spring 2021
 
 

@@ -30,7 +30,7 @@ I am a fourth-year Ph.D. student at the University of Hong Kong (HKU) in the **I
 I am fortunate to be advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Prof. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
 
 
-My academic journey has been driven by a passion for **computational imaging**, with a particular focus on **deep optics**. My research revolves around co-designing optical systems and inverse algorithms, leveraging **deep learning networks**. I also specialize in **optical numerical simulations** to model light propagations.
+My academic journey has been driven by a passion for computational imaging, with a particular focus on **deep optics**. My research revolves around co-designing optical systems, such as diffractive optical elements and metalenses, and inverse algorithms leveraging deep learning networks for **high-performance machine vision**. I also specialize in **optical numerical simulations** to model diffractive wave propagations.
 
 Before joining HKU, I completed my master’s degree at Northwestern University, where I worked in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)’s Comp Photo Lab.
 My work spans sparse CT reconstruction, light field holographic rendering, and deflectometry for 3D surface profiling.
