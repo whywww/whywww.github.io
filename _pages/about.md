@@ -26,13 +26,11 @@ latest_posts:
 ---
 
 
-I am a fourth-year Ph.D. student at the University of Hong Kong (HKU) in the **Imaging Systems Lab** and **WeLight Lab**. 
-I am fortunate to be advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Prof. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
+I'm a senior engineer at TCL Corporate Research (HK), specializing in the intersection of optics and AI. I obtained my Ph.D. from HKU **Imaging Systems Lab** and **WeLight**, advised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and Prof. [Evan Peng](https://www.eee.hku.hk/~evanpeng).
 
+I am broadly interested in computational photography, display, and 3D vision. My doctoral research revolves around co-designing optical systems (like diffractive optical elements and metalenses) with deep learning for **high-performance vision**. I also specialize in **optical numerical simulations** to model diffractive wave propagations.
 
-My academic journey has been driven by a passion for computational imaging, with a particular focus on **deep optics**. My research revolves around co-designing optical systems, such as diffractive optical elements and metalenses, and inverse algorithms leveraging deep learning networks for **high-performance machine vision**. I also specialize in **optical numerical simulations** to model diffractive wave propagations.
+Before joining HKU, I completed my master’s degree in Computer Science at Northwestern University, where I worked in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)’s Comp Photo Lab.
+My work spanned CT reconstruction, lightfield holographic rendering, and 3D surface profiling.
 
-Before joining HKU, I completed my master’s degree at Northwestern University, where I worked in Prof. [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)’s Comp Photo Lab.
-My work spans sparse CT reconstruction, light field holographic rendering, and deflectometry for 3D surface profiling.
-
-Outside research, I’m a sports enthusiast — marathon, tennis, and gym keep me energized. Thriller is my favorate type of movies.
+**Off-duty**: Marathon runner, hiker, gym-goer, and cat-lover.

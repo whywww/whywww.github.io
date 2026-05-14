@@ -6,19 +6,20 @@
     - name: Email
       value: haoyu [dot] wei97 [at] gmail [dot] com
     - name: Languages
-      value: Mandarin (native), English (fluent), Cantonese (beginner)
+      value: Mandarin (native), English (professional), Cantonese (listening)
     - name: Summary
-      value: Ph.D. research in computational imaging / hardware (optics)-software (AI) joint design / computer vision.
+      value: Ph.D. in computational imaging / AI-optics co-design / 3D computer vision.
 
 
 - title: Education
   type: time_table
   contents:
-    - title: The University of Hong Kong - Ph.D. in Electrical and Electronic Engineering
+    - title: The University of Hong Kong - Ph.D. in Electrical and Computer Engineering
       institution: Hong Kong, China
       year: 2021 - 2025
       description:
         - Co-advised by <a href='https://www.eee.hku.hk/~elam/'>Prof. Edmund Y. Lam</a> and <a href='https://www.eee.hku.hk/~evanpeng'>Prof. Yifan Evan Peng</a>
+        - <span>Thesis:</span> <i>Learned wide-angle imaging with optical modeling and optimization</i>
       #   - title: Description 3.
       #     contents:
       #       - Sub-description 1.
@@ -63,7 +64,7 @@
 - title: Interests
   type: list
   contents:
-    - <span><b>Sports:</b></span> marathon/trail running🏃‍♀️, hiking🥾, tennis🎾, camping🏕️.
+    - <span><b>Sports:</b></span> marathon/trail running🏃‍♀️, hiking🥾, tennis🎾, camping🏕️, gym🏋️.
     - <span><b>Hobbies:</b></span> traveling🚂, cooking🥘, cat lover🐱.
     - <div>My cats <b>Pepper</b> and <b>Taffy</b>:</div> 
       <div>
